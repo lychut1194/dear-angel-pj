@@ -1,0 +1,32 @@
+body {
+    background-color:mistyrose;
+}
+
+.intro {
+    font-size: 8vw;
+    color:deeppink;
+    text-align: center;
+}
+
+.para {
+    font-size: 4vw;
+    color:indianred;
+}
+
+.btn {
+    display: inline-block;
+    width: 90%;
+    max-width:fit-content;
+    padding: 10px;
+    
+    background-color:hotpink;
+    color:white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 4vw;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color:coral;
+}
